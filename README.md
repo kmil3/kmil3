@@ -16,4 +16,4 @@ Bem-vindo ao meu perfil no GitHub!
 
 #### Vamos nos Conectar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/camile-weber-675193278)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camile-weber-675193278/)
