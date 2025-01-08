@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**kmil3/kmil3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+#### Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Atualmente estou trabalhando em: Aprimorar minhas habilidades em desenvolvimento web com foco em acessibilidade, UX/UI
+- 🤝 Procuro colaborar em: Projetos de desenvolvimento web focados em acessibilidade e experiência do usuário.
+- 💬 Pergunte-me sobre: Acessibilidade em tecnologia e design centrado no usuário.
+- 📧 Como me encontrar: weber.camile@gmail.com
+- ⚡ Curiosidade: Gosto do meu lado criativo, trabalho com uma cutelaria artesanal e também gerencio redes sociais da minha comunidade!
+
+#### Estatísticas do GitHub
+
+![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=kmil3&show_icons=true&theme=radical)
+
+#### Vamos nos Conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte-se-blue)](www.linkedin.com/in/camile-weber-675193278)
