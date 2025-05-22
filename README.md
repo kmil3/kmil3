@@ -1,14 +1,12 @@
 ### Olá 👋
 
-Bem-vindo ao meu perfil no GitHub!
+Bem-vindo!
 
 #### Sobre Mim
 
-- 🔬 Atualmente estou trabalhando em: Aprimorar minhas habilidades em desenvolvimento web com foco em acessibilidade, UX/UI
+- 🔬 Atualmente trabalhando em: Aprimorar minhas habilidades em desenvolvimento web com foco em acessibilidade, UX/UI
 - 🤝 Procuro colaborar em: Projetos de desenvolvimento web focados em acessibilidade e experiência do usuário.
-- 💬 Pergunte-me sobre: Acessibilidade em tecnologia e design centrado no usuário.
 - 📧 Como me encontrar: weber.camile@gmail.com
-- ⚡ Curiosidade: Gosto do meu lado criativo, trabalho com uma cutelaria artesanal e também gerencio redes sociais da minha comunidade!
 
 #### Estatísticas do GitHub
 
